@@ -1,0 +1,7 @@
+[package]
+name = "MetaMagic2"
+version = "0.1.0"
+authors = ["George Atkinson <geomyles@yahoo.co.uk>"]
+edition = "2018"
+
+[dependencies]
